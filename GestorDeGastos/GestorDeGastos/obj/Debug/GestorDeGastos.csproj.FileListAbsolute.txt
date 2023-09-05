@@ -1,0 +1,16 @@
+C:\Users\esteb\source\repos\GestorDeGastos\GestorDeGastos\obj\Debug\GestorDeGastos.csproj.AssemblyReference.cache
+C:\Users\esteb\source\repos\GestorDeGastos\GestorDeGastos\obj\Debug\GestorDeGastos.csproj.SuggestedBindingRedirects.cache
+C:\Users\esteb\source\repos\GestorDeGastos\GestorDeGastos\obj\Debug\MainWindow.g.cs
+C:\Users\esteb\source\repos\GestorDeGastos\GestorDeGastos\obj\Debug\App.g.cs
+C:\Users\esteb\source\repos\GestorDeGastos\GestorDeGastos\obj\Debug\GestorDeGastos_MarkupCompile.cache
+C:\Users\esteb\source\repos\GestorDeGastos\GestorDeGastos\obj\Debug\GestorDeGastos_MarkupCompile.lref
+C:\Users\esteb\source\repos\GestorDeGastos\GestorDeGastos\bin\Debug\GestorDeGastos.exe.config
+C:\Users\esteb\source\repos\GestorDeGastos\GestorDeGastos\bin\Debug\GestorDeGastos.exe
+C:\Users\esteb\source\repos\GestorDeGastos\GestorDeGastos\bin\Debug\GestorDeGastos.pdb
+C:\Users\esteb\source\repos\GestorDeGastos\GestorDeGastos\obj\Debug\MainWindow.baml
+C:\Users\esteb\source\repos\GestorDeGastos\GestorDeGastos\obj\Debug\GestorDeGastos.g.resources
+C:\Users\esteb\source\repos\GestorDeGastos\GestorDeGastos\obj\Debug\GestorDeGastos.Properties.Resources.resources
+C:\Users\esteb\source\repos\GestorDeGastos\GestorDeGastos\obj\Debug\GestorDeGastos.csproj.GenerateResource.cache
+C:\Users\esteb\source\repos\GestorDeGastos\GestorDeGastos\obj\Debug\GestorDeGastos.csproj.CoreCompileInputs.cache
+C:\Users\esteb\source\repos\GestorDeGastos\GestorDeGastos\obj\Debug\GestorDeGastos.exe
+C:\Users\esteb\source\repos\GestorDeGastos\GestorDeGastos\obj\Debug\GestorDeGastos.pdb
