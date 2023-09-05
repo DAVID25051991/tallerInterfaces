@@ -1,0 +1,6 @@
+C:\Users\esteb\source\repos\convertidor\convertidor\obj\Debug\convertidor.csproj.AssemblyReference.cache
+C:\Users\esteb\source\repos\convertidor\convertidor\obj\Debug\convertidor.csproj.SuggestedBindingRedirects.cache
+C:\Users\esteb\source\repos\convertidor\convertidor\obj\Debug\MainWindow.g.cs
+C:\Users\esteb\source\repos\convertidor\convertidor\obj\Debug\App.g.cs
+C:\Users\esteb\source\repos\convertidor\convertidor\obj\Debug\convertidor_MarkupCompile.cache
+C:\Users\esteb\source\repos\convertidor\convertidor\obj\Debug\convertidor_MarkupCompile.lref
