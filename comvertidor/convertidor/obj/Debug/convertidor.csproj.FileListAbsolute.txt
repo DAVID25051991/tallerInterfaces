@@ -4,3 +4,13 @@ C:\Users\esteb\source\repos\convertidor\convertidor\obj\Debug\MainWindow.g.cs
 C:\Users\esteb\source\repos\convertidor\convertidor\obj\Debug\App.g.cs
 C:\Users\esteb\source\repos\convertidor\convertidor\obj\Debug\convertidor_MarkupCompile.cache
 C:\Users\esteb\source\repos\convertidor\convertidor\obj\Debug\convertidor_MarkupCompile.lref
+C:\Users\esteb\source\repos\convertidor\convertidor\bin\Debug\convertidor.exe.config
+C:\Users\esteb\source\repos\convertidor\convertidor\bin\Debug\convertidor.exe
+C:\Users\esteb\source\repos\convertidor\convertidor\bin\Debug\convertidor.pdb
+C:\Users\esteb\source\repos\convertidor\convertidor\obj\Debug\MainWindow.baml
+C:\Users\esteb\source\repos\convertidor\convertidor\obj\Debug\convertidor.g.resources
+C:\Users\esteb\source\repos\convertidor\convertidor\obj\Debug\convertidor.Properties.Resources.resources
+C:\Users\esteb\source\repos\convertidor\convertidor\obj\Debug\convertidor.csproj.GenerateResource.cache
+C:\Users\esteb\source\repos\convertidor\convertidor\obj\Debug\convertidor.csproj.CoreCompileInputs.cache
+C:\Users\esteb\source\repos\convertidor\convertidor\obj\Debug\convertidor.exe
+C:\Users\esteb\source\repos\convertidor\convertidor\obj\Debug\convertidor.pdb

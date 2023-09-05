@@ -1,17 +1,6 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows;
 using System.Windows.Controls;
-using System.Windows.Data;
-using System.Windows.Documents;
-using System.Windows.Input;
-using System.Windows.Media;
-using System.Windows.Media.Imaging;
-using System.Windows.Navigation;
-using System.Windows.Shapes;
 
 namespace convertidor
 {
@@ -24,8 +13,8 @@ namespace convertidor
 
         private void ComboBox_SelectionChanged(object sender, SelectionChangedEventArgs e)
         {
-            // Mostrar u ocultar los controles según la selección del ComboBox
-            string opcionSeleccionada = ((ComboBoxItem)opcionSeleccionada.SelectedItem)?.Content.ToString();
+            // Obtener la opción seleccionada del ComboBox
+            string opcionSeleccionada = ((ComboBoxItem)opcion.SelectedItem)?.Content.ToString();
 
             switch (opcionSeleccionada)
             {
@@ -50,7 +39,8 @@ namespace convertidor
 
         private void Convertir_Click(object sender, RoutedEventArgs e)
         {
-            string opcionSeleccionada = ((ComboBoxItem)opcionSeleccionada.SelectedItem)?.Content.ToString();
+            // Obtener la opción seleccionada del ComboBox
+            string opcionSeleccionada = ((ComboBoxItem)opcion.SelectedItem)?.Content.ToString();
 
             double valor;
             if (!double.TryParse(unidad1.Text, out valor))
